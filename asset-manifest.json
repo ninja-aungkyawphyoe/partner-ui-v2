@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc165f51.css",
+    "main.js": "/static/js/main.d1d659fb.js",
+    "static/media/awb-logo.png": "/static/media/awb-logo.bf55f64e9614dc8fc93e.png",
+    "static/media/partner-logo.png": "/static/media/partner-logo.cb0bb21173c53ab5c89c.png",
+    "static/media/shipper_profile.png": "/static/media/shipper_profile.d6b1338bf280b3583819.png",
+    "static/media/ninja_qr_image.png": "/static/media/ninja_qr_image.770c71e1a288c422aea9.png",
+    "static/media/annocement.png": "/static/media/annocement.e93f1a405705483a89af.png",
+    "static/media/shipper_history_empty.png": "/static/media/shipper_history_empty.8631b604157c6a561055.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.dc165f51.css.map": "/static/css/main.dc165f51.css.map",
+    "main.d1d659fb.js.map": "/static/js/main.d1d659fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc165f51.css",
+    "static/js/main.d1d659fb.js"
+  ]
+}
